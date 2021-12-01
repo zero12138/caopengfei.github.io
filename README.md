@@ -4,4 +4,4 @@ Here is a test page!
 
 Could you see me?
 
-<img src="https://github.com/zero12138/PicGo/blob/main/image/girls.jpg?raw=true" style="zoom:70%">
+<img src="https://cdn.jsdelivr.net/gh/zero12138/PicGo/image/girls.jpg" style="zoom:70%">
